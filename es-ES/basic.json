@@ -1,0 +1,46 @@
+{
+  "permissions": {
+    "ADD_REACTIONS": "Anãdir reacciones",
+    "ATTACH_FILES": "Adjuntar archivos",
+    "BAN_MEMBERS": "Vetar miembros",
+    "KICK_MEMBERS": "Expulsar miembros",
+    "MANAGE_MESSAGES": "Gestionar mensajes",
+    "EMBED_LINKS": "Insertar enlaces",
+    "MANAGE_CHANNELS": "Gestionar canales",
+    "MANAGE_GUILD": "Gestionar servidor",
+    "MENTION_EVERYONE": "Mencionar a todos",
+    "USE_EXTERNAL_EMOJIS": "Usar emojis externos",
+    "CONNECT": "Conectar a canales de voz",
+    "SPEAK": "Hablar en canales de voz",
+    "MUTE_MEMBERS": "Silenciar miembros en canales de voz",
+    "DEAFEN_MEMBERS": "Ensordecer miembros",
+    "MOVE_MEMBERS": "Mover miembros de canales de voz",
+    "USE_VAD": "Usar actividad de voz",
+    "PRIORITY_SPEAK": "Prioridad de palabra",
+    "CHANGE_NICKNAME": "Cambiar su proprio apodo",
+    "MANAGE_NICKNAMES": "Cambiar los apodos de otros miembros",
+    "MANAGE_ROLES": "Criar nuevos roles y editar/eliminar roles inferiores a este",
+    "MANAGE_WEBHOOKS": "Crear y editar webhooks",
+    "MANAGE_EMOJIS": "Gestionar emojis",
+    "SEND_MESSAGES": "Enviar mensajes",
+    "SEND_TTS_MESSAGES": "Enviar mensajes de TTS (Text to speech)",
+    "CREATE_INSTANT_INVITE": "Crear invitación instantánea",
+    "ADMINISTRATOR": "Administrador",
+    "VIEW_CHANNEL": "Leer canales de texto",
+    "READ_MESSAGES_HISTORY": "Leer el historial de mensajes",
+    "VIEW_AUDIT_LOG": "Ver el registro de auditoría"
+  },
+  "categories": {
+    "administration": "Administracíon",
+    "dev": "Desarrolladores",
+    "social": "Social",
+    "util": "Utilitario",
+    "games": "Juegos"
+  },
+  "misc": {
+    "noPerm": "Oopsie! No tienes la seguinte permissíon: `{{perm}}`!",
+    "noClientPerm": "Oopsie! No tengo la seguinte permissíon: `{{perm}}`!",
+    "onMention": " ¡Hola! Me llamo Kael. ¡Use {{prefix}}ayuda para más informacíones **amiguito(a)!**",
+    "monsterMessage": "⚠️ Has sido baneado de me utilizar!\n📜 Razón: `{{reason}}`!\n\nSe piensa que istó has sido un engaño, por favor, contate el desarrolladores."
+  }
+}

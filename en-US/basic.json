@@ -1,0 +1,46 @@
+{
+  "permissions": {
+    "ADD_REACTIONS": "Add reactions",
+    "ATTACH_FILES": "Send files",
+    "BAN_MEMBERS": "Ban members",
+    "KICK_MEMBERS": "Kick members",
+    "MANAGE_MESSAGES": "Manage messages",
+    "EMBED_LINKS": "Embed links",
+    "MANAGE_CHANNELS": "Manage channels",
+    "MANAGE_GUILD": "Manage guild",
+    "MENTION_EVERYONE": "Mention everyone and here",
+    "USE_EXTERNAL_EMOJIS": "Use external emojis",
+    "CONNECT": "Connect to voice channels",
+    "SPEAK": "Speak on voice channels",
+    "MUTE_MEMBERS": "Mute members",
+    "DEAFEN_MEMBERS": "Deafen members",
+    "MOVE_MEMBERS": "Move members",
+    "USE_VAD": "Use voice detection",
+    "PRIORITY_SPEAK": "Priority Speaker",
+    "CHANGE_NICKNAME": "Change nicknames",
+    "MANAGE_NICKNAMES": "Change all nicknames",
+    "MANAGE_ROLES": "Manage roles",
+    "MANAGE_WEBHOOKS": "Manage webhooks",
+    "MANAGE_EMOJIS": "Manage emojis",
+    "SEND_MESSAGES": "Send messages",
+    "SEND_TTS_MESSAGES": "Send TTS messages",
+    "CREATE_INSTANT_INVITE": "Create instant invite",
+    "ADMINISTRATOR": "Administrator",
+    "VIEW_CHANNEL": "View channel",
+    "READ_MESSAGES_HISTORY": "Read message history",
+    "VIEW_AUDIT_LOG": "View audit log"
+  },
+  "categories": {
+    "administration": "Administration",
+    "dev": "Developers",
+    "social": "Social",
+    "util": "Utility",
+    "games": "Games"
+  },
+  "misc": {
+    "noPerm": "Oopsie! You don't have the following permission: `{{perm}}`!",
+    "noClientPerm": "Oopsie! I don't have the following permission: `{{perm}}`!",
+    "onMention": "Hi! My name is Kael! Use {{prefix}}help for more information, **friend!**",
+    "monsterReason": "⚠️ You are **banned!**\n📜 Reason: `{{reason}}`\n\n If you think that is a mistake, tell my developers!"
+  }
+}

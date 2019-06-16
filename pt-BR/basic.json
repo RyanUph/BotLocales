@@ -1,0 +1,46 @@
+{
+  "permissions": {
+    "ADD_REACTIONS": "Adicionar reações",
+    "ATTACH_FILES": "Enviar arquivos",
+    "BAN_MEMBERS": "Banir membros",
+    "KICK_MEMBERS": "Expulsar membros",
+    "MANAGE_MESSAGES": "Gerenciar mensagens",
+    "EMBED_LINKS": "Links com preview",
+    "MANAGE_CHANNELS": "Gerenciar canais",
+    "MANAGE_GUILD": "Gerenciar servidor",
+    "MENTION_EVERYONE": "Mencionar everyone e here",
+    "USE_EXTERNAL_EMOJIS": "Usar emojis de outras guilds",
+    "CONNECT": "Conectar a canais de voz",
+    "SPEAK": "Falar em canais de voz",
+    "MUTE_MEMBERS": "Silenciar membros em canais de voz",
+    "DEAFEN_MEMBERS": "Deixar membros sem escutar nada",
+    "MOVE_MEMBERS": "Mover membros de canais de voz",
+    "USE_VAD": "Usar a detecção de voz",
+    "PRIORITY_SPEAK": "Usar speaker prioritário",
+    "CHANGE_NICKNAME": "Alterar meu apelido na guild",
+    "MANAGE_NICKNAMES": "Alterar apelido de outros membros da guild",
+    "MANAGE_ROLES": "Criar e elterar configurações de roles",
+    "MANAGE_WEBHOOKS": "Criar e alterar webhooks",
+    "MANAGE_EMOJIS": "Editar e adicionar emojis",
+    "SEND_MESSAGES": "Enviar mensagens",
+    "SEND_TTS_MESSAGES": "Enviar mensagens de TTS (Text to speech)",
+    "CREATE_INSTANT_INVITE": "Criar convite instantâneo",
+    "ADMINISTRATOR": "Administrador",
+    "VIEW_CHANNEL": "Ver o canal",
+    "READ_MESSAGES_HISTORY": "Ler o histórico de mensagens",
+    "VIEW_AUDIT_LOG": "Acesso ao audit log"
+  },
+  "categories": {
+    "administration": "Administração",
+    "dev": "Desenvolvedores",
+    "social": "Social",
+    "util": "Utilitário",
+    "games": "Jogos"
+  },
+  "misc": {
+    "noPerm": "Oopsie! Você não tem a seguinte permissão: `{{perm}}`!",
+    "noClientPerm": "Oopsie! Eu não tenho a seguinte permissão: `{{perm}}`!",
+    "onMention": "Olá! Meu nome é Kael! Use {{prefix}}ajuda para mais informações **amiguinho(a)!**",
+    "monsterMessage": "⚠️ Você foi banido de utilizar o Kael!\n📜 Razão: `{{reason}}`!\n\nSe você acha que isso foi um engano, por favor, contate os desenvolvedores (apesar de que eu duvide que seja um engano)."
+  }
+}

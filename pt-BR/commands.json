@@ -1,0 +1,87 @@
+{
+  "avatar": {
+    "avatarOf": "Avatar de **{{user}}**"
+  },
+  "xp": {
+    "level": "Você está no nível",
+    "reached": "alcançado",
+    "nextLevel": "Próximo nível:"
+  },
+  "help": {
+    "noAliases": "Esse comando não tem aliases!",
+    "cat": "Categoria",
+    "fail": "eu não pude enviar meus comandos na sua DM...",
+    "success": "eu enviei meus comandos na sua DM!"
+  },
+  "invite": {
+    "embedTitle": "Me convide para um servidor!",
+    "embedDescription": "Você quer me adicionar a um servidor? Que legal! Você pode me adicionar [clicando aqui](https://discordapp.com/oauth2/authorize?client_id=532615363121381396&permissions=8&scope=bot)"
+  },
+  "canaltexto": {
+    "invalidArgs": ":Registrado: **|** {{user}}, faltou-lhe me dizer o nome do canal de texto que você deseja criar.",
+    "maxLength": ":Kael: **|** Poing-oing... {{user}, você atingiu o limite máximo de 100 caracteres no canal de texto.",
+    "noChannel": ":Kael: **|** Poing-oing... {{user}}, não encontrei esse canal no servidor.",
+    "renameSuccess": ":Registrado: **|** {{user}}, o canal foi renomeado para {{channel}}.",
+    "createSuccess": ":Registrado: **|** {{user}}, o canal {{newChannel}} foi criado.",
+    "invalidArg": "Argumento inválido!",
+    "validArgs": "Argumentos suportados: ``criar``, ``editar``"
+  },
+  "userinfo": {
+    "embedTitle": "Informações de {{user}}",
+    "username": "Nome de Usuário",
+    "createdAt": "Conta criada em",
+    "permissions": "Permissões ({{quantitity}})"
+  },
+  "say": {
+    "alertCooldown": "<:Kael:512721559887151104> | Poing-oing... {{user}}, tenha um pouco de calma!",
+    "argsNotDefined": "<:Kael:512721559887151104> | Poing-oing... {{user}}, você precisa dizer o que quer que eu fale, tipo o quanto sushi é gostoso! <:Sushi:513134556618948609>",
+    "alertArgsLength": "<:Kael:512721559887151104> | Poing-oing... {{user}}, parece que sua mensagem é muito grande. Não ultrapasse o limite de 100 caracteres!",
+    "NoInvite": "<:Kael:512721559887151104> | Poing-oing... {{user}}, você não pode utilizar minha função  **falar** para compartilhar servidores."
+  },
+  "clear": {
+    "amountNotDefined": "<:Limpeza:507408323306323970> **|** Poing-oing... {{user}}, tens que me dizer quantas mensagens quer que eu apague, bobinho(a)!",
+    "amountLimite": "<:Limpeza:507408323306323970> **|** Poing-oing... {{user}}, eu só posso limpar de 2 á 100 mensagens de uma vez!",
+    "noMessage": "<:Limpeza:507408323306323970> **|** Poing-oing... {{user}}, não localizei nenhuma mensagem!",
+    "messageDelete": "<:Limpeza:507408323306323970> **|** {{user}}, eliminei {{clean}} mensagens do sistema!",
+    "unexpectedError": "<:Limpeza:507408323306323970> **|** Poing-oing... {{user}}, algo inesperado ocorreu durante a execução deste comando."
+  },
+  "language": {
+    "embedTitle": "Selecione uma linguagem!",
+    "languages": "Linguagens disponiveis"
+  },
+  "ban": {
+    "noUser": "Você deve especificar um usuário para eu banir!",
+    "correctUse": "Uso correto",
+    "noPermission": "Eu não tenho permissão para banir esse usuário",
+    "noPermissionExplain": "Por questões de hierarquia, eu não consigo banir membros que tem cargos acima do meu!",
+    "cantBanThisMember": "Eu não posso banir usuários que tenham o mesmo cargo, ou acima, do seu!",
+    "succesfullyBanned": "Usuário {{user}} foi banido com sucesso pelo motivo {{reason}}!",
+    "succesfullyBannedTitle": "Usuário banido com sucesso!",
+    "noReason": "Sem razão..."
+  },
+  "unban": {
+    "noUser": "Você deve especificar um usuário para eu desbanir",
+    "noUserBanned": "Este usuário não está banido",
+    "succesfullyUnbannedTitle": "Usuário desbanido com sucesso!",
+    "succesfullyUnbanned": "Usuário {{user}} foi desbanido com sucesso pelo {{staff}}"
+  },
+  "serverinfo": {
+    "noServerFound": "Nenhum servidor encontrado! :(",
+    "incorrectSearch": "Não conheço nenhum servidor com ID {{0}}, talvez eu não esteja nesse servidor, ou este ID está incorreto!",
+    "information": "Informações de {{server}}",
+    "name": "Nome do servidor",
+    "createdAt": "Servidor criado em",
+    "joinedAt": "Entrei aqui em",
+    "owner": "Dono do Servidor"
+  },
+  "fortnite": {
+    "invalidPlatform": "Plataforma inválida!",
+    "validPlatforms": "Plataformas suportadas: ``xbl``, ``psn``, ``pc``.",
+    "invalidUser": "Usuário inválido!",
+    "specifyUser": "Especifique um usuário válido!",
+    "informationsOf": "Informações de {{user}}!",
+    "kills": "Eliminações",
+    "matches": "Partidas",
+    "wins": "Vitórias"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "avatar": {
+    "avatarOf": "**{{user}}'s** avatar"
+  },
+  "xp": {
+    "level": "You are at level",
+    "reached": "reached",
+    "nextLevel": "Next level:"
+  },
+  "help": {
+    "noAliases": "This command doesn't have aliases!",
+    "cat": "Category",
+    "fail": "I wasn't able to send my commands on your DM...",
+    "success": "I sent my commands on your DM!"
+  },
+  "invite": {
+    "embedTitle": "Invite me to a server",
+    "embedDescription": "Do you want add me to a server? Cool! You can add me by [clicking here!](https://discordapp.com/oauth2/authorize?client_id=532615363121381396&permissions=8&scope=bot)"
+  },
+  "userinfo": {
+    "embedTitle": "{{user}}'s information",
+    "username": "Username",
+    "createdAt": "Account created at",
+    "permissions": "Permissions ({{quantity}})"
+  },
+  "language": {
+    "embedTitle": "Choose a language",
+    "languages": "Available languages"
+  },
+  "ban": {
+    "noUser": "You should specify an user to ban",
+    "correctUse": "Correct use",
+    "noPermission": "I doesn't have permission to ban this member",
+    "noPermissionExplain": "I can't ban this member!",
+    "cantBanThisMember": "I can't ban users which have the same role or higher than yours!",
+    "successfullyBanned": "Successfully banned {{user}}! Reason: {{reason}}!",
+    "successfullyBannedTitle": "Successfully bannned user",
+    "noReason": "No reason..."
+  },
+  "unban": {
+    "noUser": "You should specify an user to unban",
+    "noUserBanned": "This user isn't banned!",
+    "successfullyUnbannedTitle": "Successfully unbanned user",
+    "successfullyUnbanned": "{{user}} were unbanned by {{staff}}"
+  },
+  "serverinfo": {
+    "noServerFound": "None server was found with this ID! :(",
+    "incorrectSearch": "I don't know servers with ID {{0}}",
+    "information": "{{server}}'s information",
+    "name": "Server name",
+    "createdAt": "Server created at",
+    "joinedAt": "I've joined here at",
+    "owner": "Server owner"
+  },
+  "fortnite": {
+    "invalidPlatform": "Invalid platform!",
+    "validPlatforms": "Supported platforms: ``xbl``, ``psn``, ``pc``.",
+    "invalidUser": "Invalid user!",
+    "specifyUser": "You should specify a valid user!",
+    "informationsOf": "{{user}}'s information'!",
+    "kills": "Kills",
+    "matches": "Matches",
+    "wins": "Wins"
+  }
+}

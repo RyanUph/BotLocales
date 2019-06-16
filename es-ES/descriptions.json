@@ -1,0 +1,14 @@
+{
+  "avatar": "Vea su avatar",
+  "xp": "Vea su XP",
+  "eval": "Ejecuta códigos en JavaScript! (Apenas para meus desarrolladores)",
+  "ping": "Verifica mío ping",
+  "help": "Envia una lista de comandos para usted, ou apenas informacíones sobre uno",
+  "invite": "Envia mío convite, para usted me adicionar en sua guild!",
+  "linguagem": "Cambia la linguagem del servidor",
+  "ban": "Banear un miembro do servidor",
+  "unban": "Perdoe un miembro do servidor",
+  "profile": "Vea su perfil",
+  "userinfo": "Vea su informacíones (ou de outros miembros)",
+  "serverinfo": "Vea informacíones de servidores"
+}

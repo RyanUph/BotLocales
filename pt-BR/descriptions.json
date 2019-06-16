@@ -1,0 +1,15 @@
+{
+  "avatar": "Veja seu avatar",
+  "xp": "Veja seu XP",
+  "eval": "Executa códigos em JS (Apenas para meus devs!)",
+  "ping": "Verifica meu ping",
+  "help": "Envia uma lista de comandos, ou envia informações sobre apenas um.",
+  "invite": "Envia meu invite, para você me adicionar em sua guild!",
+  "linguagem": "Troca a linguagem do servidor atual!",
+  "ban": "Bane um usuário do seu servidor",
+  "unban": "Desbane um usuário do seu servidor",
+  "profile": "Veja seu perfil",
+  "userinfo": "Veja suas informações (ou de outros usuários)",
+  "serverinfo": "Veja informações de outros servidores",
+  "canaltexto": "Crie canais de texto personalizados dando o real espaço entre as palavras e deixando seu servidor muito mais bonito."
+}

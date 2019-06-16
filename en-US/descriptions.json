@@ -1,0 +1,14 @@
+{
+  "avatar": "See your avatar",
+  "xp": "See your current XP",
+  "eval": "Evalute JS code (Developer only!)",
+  "ping": "Check my WS ping",
+  "help": "Sends a command list",
+  "invite": "Get my invite, to add me on your guild!",
+  "linguagem": "Change the language of the server",
+  "ban": "Ban a member of your server",
+  "unban": "Pardon a member of your server",
+  "profile": "See your profile",
+  "userinfo": "See member information",
+  "serverinfo": "See server information"
+}

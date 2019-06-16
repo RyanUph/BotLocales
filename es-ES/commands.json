@@ -1,0 +1,36 @@
+{
+  "avatar": {
+    "avatarOf": "Avatar de **{{user}}**"
+  },
+  "xp": {
+    "level": "Estás no nível",
+    "reached": "alganzado",
+    "nextLevel": "Prójimo nível:"
+  },
+  "help": {
+    "noAliases": " ¡Ese comando no tiene alternativas!",
+    "cat": "Categoría",
+    "fail": "¡Yo no puede enviar míos comandos para tí¡",
+    "success": "¡ Yo enviei míos comandos para tí! Cheque sua mensajes directas!"
+  },
+  "invite": {
+    "embedTitle": "Convidas me para uno servidor",
+    "embedDescription": "Quieres me invitar para uno servidor? Bacana! Puedes me adicionar [haciendo click aqui](https://discordapp.com/oauth2/authorize?client_id=532615363121381396&permissions=8&scope=bot)"
+  },
+  "userinfo": {
+    "embedTitle": "informacíones de {{user}}",
+    "username": "Nombre de usuário",
+    "createdAt": "Cuenta criada en",
+    "permissions": "Permissíones ({{quantitity}})"
+  },
+  "say": {
+    "alertCooldown": "<:Kael:512721559887151104> | Poing-oing... {{user}}, tenha um pouco de calma!",
+    "argsNotDefined": "<:Kael:512721559887151104> | Poing-oing... {{user}}, você precisa dizer o que quer que eu fale, tipo o quanto sushi é gostoso! <:Sushi:513134556618948609>",
+    "alertArgsLength": "<:Kael:512721559887151104> | Poing-oing... {{user}}, parece que sua mensagem é muito grande. Não ultrapasse o limite de 100 caracteres!",
+    "noInvite": "<:Kael:512721559887151104> | Poing-oing... {{user}}, você não pode utilizar minha função  **falar** para compartilhar servidores."
+  },
+  "language": {
+    "embedTitle": "Seleccionar una lenguaje!",
+    "languages": "Lenguajes disponibles"
+  }
+}
